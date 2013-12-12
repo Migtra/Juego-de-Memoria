@@ -95,7 +95,7 @@
     {
         for(i=0; i<=[SecuenciaJugador count]; i++){
             if ((SecuenciaJugador[i]) != (SecuenciaAleatoria[i])) {
-                NSLog(@"El jugador ha fallado");
+                NSLog(@"No has acertado");
             }
         }
     
